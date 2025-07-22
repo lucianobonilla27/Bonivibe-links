@@ -7,7 +7,7 @@ import { Card, CardContent } from "@/components/ui/card"
 export default function BonivibeLinks() {
   const links = [
     {
-      title: "WhatsApp",
+      title: "WhatsApp/Catálogo",
       description: "Contáctanos directamente",
       url: "https://l.instagram.com/?u=http%3A%2F%2Fwa.me%2F5493815758322%3Ffbclid%3DPAZXh0bgNhZW0CMTEAAafJ9Il09ad7DgAF1zi_9oQ4ZkTyUUoleoE3rWH_t14L-URZwdwrLLKqqZz57g_aem_gzP6p_GOlxNQB6bI1CQ0qw&e=AT1_N3O3D3rdU4QwtKsKDzXSrfDkAui2t3XjUBebbI1PdDrJEuoZAm88hBlUBxWzW6Dxjl3oZ55T1aHDjRXArQWEvXBcA8YzDeMb6mA",
       icon: MessageCircle,
@@ -24,7 +24,7 @@ export default function BonivibeLinks() {
       url: "https://www.tiktok.com/@bonivibe.indumenta",
       icon: Music,
     },
-    
+
   ]
 
   return (
